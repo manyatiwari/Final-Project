@@ -57,7 +57,7 @@ p{
 } 
 .btn{
     display: inline-block;
-    background: #c3769d;
+    background: #bf80ff;
     color: #fff;
     padding: 8px 30px;
     margin: 30px 0;
@@ -65,10 +65,10 @@ p{
     transition: background 0.5s;
 }
 .btn:hover{
-    background: #822E54;
+    background: #cc99ff;
 }
 .header{
-    background: linear-gradient(#ffbae1,#fff)
+    background: linear-gradient(#d9b3ff,#fff)
 }
 .header .row{
     margin-top: 70px;
@@ -109,7 +109,7 @@ p{
 }
 .title::after{
     content: '';
-    background: #B85280;
+    background: #8c1aff;
     width: 80px;
     height: 5px;
     border-radius: 5px;
@@ -133,7 +133,7 @@ h4{
 }
 /*-------offer-------*/
 .offer{
-    background: radial-gradient(#fff,#ffbae1);
+    background: radial-gradient(#fff,#dab3ff);
     margin-top: 80px;
     padding: 30px 0;
 }
@@ -174,7 +174,7 @@ small{
 }
 /*-------footer-------*/
 .footer{
-    background: #B85280;
+    background: #dab3ff;
     color: #fff;
     font-size: 14px;
     padding: 60px 0 20px;
